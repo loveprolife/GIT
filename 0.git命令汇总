@@ -1,0 +1,13 @@
+$ git config --global user.name "Your Name"   //配置某项的值
+
+$ git config --list   //列出所有配置项
+$ git config user.name  //查询某项的值
+
+$ git init  //初始化当前文件夹 被git管理
+
+$ git add readme.txt //增加某个文件
+$ git add .         //增加所有文件
+$ git add test/.         //增加test文件下所有的文件
+
+$ git status   //查询文件状态
+
